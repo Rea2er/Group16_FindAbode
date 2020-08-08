@@ -18,7 +18,7 @@ Project Repository Link
 https://github.com/Rea2er/Group16_FindAbode
 
 Available Live Web on Heroku
-https://project-group16.herokuapp.com/
+https://tutorial16-group16.herokuapp.com/
 
 ## Built With
 
